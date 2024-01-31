@@ -10,4 +10,6 @@
     One can include different images using img tag and change their source.
     I have uploaded just one image as it is a dummy project.<br/>
   </p>
+
+  <p>https://dikshayogiraj-cs2018.github.io/imagica.github.io/</p>
 </body>
