@@ -1,0 +1,15 @@
+.navbar {
+    margin-bottom: 10px;
+}
+
+.bg-dark {
+    background-color: #5a636c !important;
+}
+
+.jumbotron {
+    background-color: rgb(116, 184, 223);
+}
+
+.img-thumbnail {
+    margin-bottom: 20px;
+}
